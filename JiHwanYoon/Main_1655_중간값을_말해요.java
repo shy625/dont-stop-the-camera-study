@@ -20,7 +20,7 @@ public class Main_1655_중간값을_말해요 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(br.readLine());
 		// 작은 수들의 집합과 큰 수들의 집합을 heap으로 구현해 작은 수들 중 가장 큰 값과, 큰 수들 중 가장 작은 값을 빠르게 뽑을 수 있도록 했습니다.
-		PriorityQueue<Integer> maxHeap = new PriorityQueue<>((x, y) -> y - x); // 작은 수들의 집합
+		PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverseOrder()); // 작은 수들의 집합
 		PriorityQueue<Integer> minHeap = new PriorityQueue<>(); // 큰 수들의 집합
 		// 출력 저장
 		StringBuilder sb = new StringBuilder();
