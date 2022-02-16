@@ -13,7 +13,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class BJ_1966_프린터큐 {
+public class Week1_BJ_1966_프린터큐 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
