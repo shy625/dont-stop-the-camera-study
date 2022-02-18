@@ -30,10 +30,7 @@ def dfs(cnt):
         for i in range(9):
             for j in range(9):
                 print(ground[i][j], end= " ")
-            print()        
-        
-        
-        
+            print()              
         exit()
     for i in range(1,10):
         x = zero[cnt][0]
