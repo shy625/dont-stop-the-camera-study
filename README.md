@@ -22,6 +22,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |1주차(02.08~02.10)|[스택 수열](https://www.acmicpc.net/problem/1874)|[프린터 큐](https://www.acmicpc.net/problem/1966)| | | |
 |2주차(02.11~02.17)|[바이러스](https://www.acmicpc.net/problem/2606)|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[오큰수](https://www.acmicpc.net/problem/17298)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|
 |3주차(02.18~02.24)|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[토마토](https://www.acmicpc.net/problem/7576)|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[스도쿠](https://www.acmicpc.net/problem/2580)|
+|4주차(02.25~03.03)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|[여행 가자](https://www.acmicpc.net/problem/1976)|[파티](https://www.acmicpc.net/problem/1238)|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
