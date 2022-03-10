@@ -4,8 +4,6 @@
  * @ level : G5
  */
 
-// 80%에서 시간초과 Fail
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -83,13 +81,9 @@ public class Week5_BJ_16234_인구이동 {
             }
 
             // 연합 인구에 따라 각 칸의 인구수 재배치
-            for(int i = 1; i <= num; i++) {
-                for(int r = 0; r < N; r++) {
-                    for(int c = 0; c < N; c++) {
-                        if(unions[r][c] == i) {
-                            map[r][c] = populations.get(i);
-                        }
-                    }
+            for(int r = 0; r < N; r++) {
+                for(int c = 0; c < N; c++) {
+                    map[r][c] = populations.get(unions[r][c]);
                 }
             }
             
@@ -136,3 +130,9 @@ public class Week5_BJ_16234_인구이동 {
 // BFS로 연합 확인 및 연합의 인구수 계산 -> 연합이 없는 모든 칸에 대해서 BFS 진행 -> 연합 설정 완료 후 인구수 재배치 -> 종료될 때까지 반복
 // https://www.acmicpc.net/source/40192897
 // https://www.acmicpc.net/source/40193270
+
+// 풀이 2
+// 인구수 재배치 부분 수정
+// num만큼 반복 돌 필요 없이 각 칸의 위치와 동일한 unions 값으로 list.get()
+// num * N * N -> N * N 의 시간복잡도로 개선
+// https://www.acmicpc.net/source/40196219
