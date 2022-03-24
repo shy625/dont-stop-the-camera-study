@@ -26,6 +26,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |5주차(03.04~03.10)|[외판원 순회 2](https://www.acmicpc.net/problem/10971)|[전구와 스위치](https://www.acmicpc.net/problem/2138)|[인구 이동](https://www.acmicpc.net/problem/16234)|[상어 초등학교](https://www.acmicpc.net/problem/21608)|[같은 수로 만들기](https://www.acmicpc.net/problem/2374)|
 |6주차(03.11~03.17)|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|[지름길](https://www.acmicpc.net/problem/1446)|[신입 사원](https://www.acmicpc.net/problem/1946)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)|[게리맨더링](https://www.acmicpc.net/problem/17471)|
 |7주차(03.18~03.24)|[로프](https://www.acmicpc.net/problem/2217)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[치킨 배달](https://www.acmicpc.net/problem/15686)|[나만 안되는 연애](https://www.acmicpc.net/problem/14621)|[전기가 부족해](https://www.acmicpc.net/problem/10423)|
+|8주차(03.25~03.31)|[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)|[괄호 제거](https://www.acmicpc.net/problem/2800)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|[미로만들기](https://www.acmicpc.net/problem/2665)|
 
 
 ## 참고
