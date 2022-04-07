@@ -28,6 +28,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |7주차(03.18~03.24)|[로프](https://www.acmicpc.net/problem/2217)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[치킨 배달](https://www.acmicpc.net/problem/15686)|[나만 안되는 연애](https://www.acmicpc.net/problem/14621)|[전기가 부족해](https://www.acmicpc.net/problem/10423)|
 |8주차(03.25~03.31)|[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)|[괄호 제거](https://www.acmicpc.net/problem/2800)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|[미로만들기](https://www.acmicpc.net/problem/2665)|
 |9주차(04.01~04.07)|[연속합](https://www.acmicpc.net/problem/1912)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[크게 만들기](https://www.acmicpc.net/problem/2812)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[상어 중학교](https://www.acmicpc.net/problem/21609)|
+|10주차(04.08~04.14)|[점프](https://www.acmicpc.net/problem/1890)|[리모컨](https://www.acmicpc.net/problem/1107)|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|[복제 로봇](https://www.acmicpc.net/problem/1944)|
 
 
 ## 참고
