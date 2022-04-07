@@ -27,7 +27,7 @@ public class Week9_BJ_1912_연속합 {
         dp[0] = arr[0];
         max = dp[0];
         for(int i = 1; i < N; i++) {
-            dp[i] = Math.max(dp[i-1] + dp[i], dp[i]);
+            dp[i] = Math.max(dp[i-1] + arr[i], arr[i]);
             max = Math.max(max, dp[i]);
         }
         System.out.println(max);
