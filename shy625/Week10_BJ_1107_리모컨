@@ -1,0 +1,75 @@
+/**
+ * BJ 1107 리모컨
+ * @ prob : https://www.acmicpc.net/problem/1107
+ * @ level : G5
+ */
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class Week10_BJ_1107_리모컨 {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = null;
+
+        int N = Integer.parseInt(br.readLine());
+        int M = Integer.parseInt(br.readLine());
+        
+        int availableSet = (1 << 10) - 1;
+        if(M != 0) {
+            st = new StringTokenizer(br.readLine());
+            for(int i = 0; i < M; i++) {
+                int num = Integer.parseInt(st.nextToken());
+                availableSet &= ~(1 << num);
+            }
+        }
+
+        // int count = 0;
+        // if(M == 10 || (98 <= N && N <= 103)) {
+        //     count = Math.abs(N - 100);
+        // } else {
+        int result = Math.abs(N - 100);
+        if(M != 10) {
+            int count = 0;
+            for(int up = N, down = N; ; up++, down--) {
+                int digitCount = 0;
+                if(up >= 0 && (digitCount = checkAvailable(up, availableSet)) > 0) {
+                    count += digitCount;
+                    break;
+                }
+                if(down >= 0 && (digitCount = checkAvailable(down, availableSet)) > 0) {
+                    count += digitCount;
+                    break;
+                }
+                count++;
+            }
+            result = Math.min(result, count);
+        }
+        System.out.println(result);
+
+        br.close();
+    }
+
+    private static int checkAvailable(int num, int availableSet) {
+        int tmp = num;
+        if(tmp == 0) {
+            if((availableSet & 1) == 0) {
+                return -1;
+            }
+            return 1;
+        }
+
+        int count = 0;
+        while(tmp > 0) {
+            int remain = tmp % 10;
+            if((availableSet & 1 << remain) == 0) {
+                return -1;
+            }
+            tmp /= 10;
+            count++;
+        }
+        return count;
+    }
+}
