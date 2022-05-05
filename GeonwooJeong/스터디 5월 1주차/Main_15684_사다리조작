@@ -1,0 +1,92 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class Main_15684_사다리조작 {
+	static int N, M, H;
+	static int [][] map;
+	static boolean flag;
+	static int ans;
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
+		H = Integer.parseInt(st.nextToken()); // 처음 가로선 개수
+		
+		map = new int[H+1][N+1]; // 숫자가 0부터 시작이 아니라 1부터이므로 +1로 지정
+		ans = -1; // 기본 답은 -1
+		
+		for (int i = 0; i < M; i++) {
+			st = new StringTokenizer(br.readLine());
+			int a = Integer.parseInt(st.nextToken());
+			int b = Integer.parseInt(st.nextToken());
+			// map의 1은 오른쪽으로 이동 가능 가로선 
+			map[a][b] = 1;
+			// map의 2는 왼쪽으로 이동 가능 가로선
+			map[a][b+1] = 2;
+		}
+		
+		// 0개 ~ 3개까지 추가로 놓을 수 있으므로 0개부터 놓아본다.
+		for (int i = 0; i <= 3; i++) {
+			if(!flag) {
+				dfs(0, 0, i);
+			}
+		}
+		
+		System.out.println(ans);
+	}
+	
+	// depth:높이, ladder:사다리개수, max:놓아줄 사다리 개수(0~3개)
+	private static void dfs(int depth, int ladder, int max) {
+		if (flag) {
+			return;
+		}
+		
+		// 정해진 개수 만큼 사다리를 놓았을 경우 제대로 작동하는지 체크해본다.
+		if(ladder == max) {
+			// 조작에 성공했을 경우 ans를 업데이트하고 계산을 종료한다.
+			if(check()) {
+				ans = max;
+				flag = true;
+			}
+			return;
+		}
+		
+		for (int i = depth; i <= H; i++) {
+			for (int j = 0; j < N; j++) {
+				if(map[i][j] == 0 && map[i][j+1] == 0) { // 가로선이 없는 경우
+					map[i][j] = 1; // 가로선 놓아주기 1(오른쪽 이동)
+					map[i][j+1] = 2; // 가로선 놓아주기 2(왼쪽 이동)
+					dfs(depth, ladder+1, max);
+					map[i][j] = map[i][j+1] = 0; // 놓았던 가로선 회수하기
+				}
+			}
+		}
+		
+	}
+
+	private static boolean check() {
+		for (int i = 1; i <= N; i++) { // i : 시작 사다리 번호
+			int depth = 1; // depth : 현재 사다리에서의 높이
+			int n = i; // n : 현재 사다리 번호
+			for (int j = 0; j < H; j++) {
+				if(map[depth][n] == 1) {
+					n++; // 사다리 번호 오른쪽으로
+				} else if(map[depth][n] == 2) {
+					n--; // 사다리 번호 왼쪽으로
+				}
+				depth++;
+			}
+			
+			if(n != i) { // 시작과 끝이 다를 경우 false
+				return false;
+			}
+		} // 이외의 경우 true
+		return true;
+	}
+
+}
