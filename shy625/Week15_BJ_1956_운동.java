@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Weeky15_BJ_1956_운동 {
+public class Week15_BJ_1956_운동 {
 
     static final int INF = 10_000_000;      // 최대 경로 길이 = 4_000_000
 
