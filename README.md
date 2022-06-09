@@ -36,6 +36,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |15주차(05.13~05.19)|[사과나무](https://www.acmicpc.net/problem/19539)|[연구소](https://www.acmicpc.net/problem/14502)|[운동](https://www.acmicpc.net/problem/1956)|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[로봇](https://www.acmicpc.net/problem/1726)|
 |16주차(05.20~05.26)|[꿀 따기](https://www.acmicpc.net/problem/21758)|[게임](https://www.acmicpc.net/problem/1584)|[뱀](https://www.acmicpc.net/problem/3190)|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|[통나무 옮기기](https://www.acmicpc.net/problem/1938)|
 |17주차(06.03~06.09)|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|[타일링](https://www.acmicpc.net/problem/1793)|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)|[행복 유치원](https://www.acmicpc.net/problem/13164)|[두 배열의 합](https://www.acmicpc.net/problem/2143)|
+|18주차(06.10~06.16)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[지뢰찾기](https://www.acmicpc.net/problem/2140)|[적록색약](https://www.acmicpc.net/problem/10026)|[색상환](https://www.acmicpc.net/problem/2482)|[역사](https://www.acmicpc.net/problem/1613)|
 
 
 ## 참고
