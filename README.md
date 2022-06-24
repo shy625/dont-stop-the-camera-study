@@ -38,6 +38,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |17주차(06.03~06.09)|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|[타일링](https://www.acmicpc.net/problem/1793)|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)|[행복 유치원](https://www.acmicpc.net/problem/13164)|[두 배열의 합](https://www.acmicpc.net/problem/2143)|
 |18주차(06.10~06.16)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[지뢰찾기](https://www.acmicpc.net/problem/2140)|[적록색약](https://www.acmicpc.net/problem/10026)|[색상환](https://www.acmicpc.net/problem/2482)|[역사](https://www.acmicpc.net/problem/1613)|
 |19주차(06.17~06.23)|[돌 게임 3](https://www.acmicpc.net/problem/9657)|[투에-모스 문자열](https://www.acmicpc.net/problem/18222)|[줄어드는 수](https://www.acmicpc.net/problem/1174)|[직사각형으로 나누기](https://www.acmicpc.net/problem/1451)|[벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)|
+|20주차(06.24~06.30)|[놀이공원](https://www.acmicpc.net/problem/2594)|[촌수계산](https://www.acmicpc.net/problem/2644)|[페그 솔리테어](https://www.acmicpc.net/problem/9207)|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[동전 뒤집기](https://www.acmicpc.net/problem/1285)|
 
 
 ## 참고
