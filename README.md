@@ -40,6 +40,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |19주차(06.17~06.23)|[돌 게임 3](https://www.acmicpc.net/problem/9657)|[투에-모스 문자열](https://www.acmicpc.net/problem/18222)|[줄어드는 수](https://www.acmicpc.net/problem/1174)|[직사각형으로 나누기](https://www.acmicpc.net/problem/1451)|[벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)|
 |20주차(06.24~06.30)|[놀이공원](https://www.acmicpc.net/problem/2594)|[촌수계산](https://www.acmicpc.net/problem/2644)|[페그 솔리테어](https://www.acmicpc.net/problem/9207)|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[동전 뒤집기](https://www.acmicpc.net/problem/1285)|
 |21주차(07.01~07.07)|[봄버맨](https://www.acmicpc.net/problem/16918)|[벼락치기](https://www.acmicpc.net/problem/14728)|[콘센트](https://www.acmicpc.net/problem/23843)|[교환](https://www.acmicpc.net/problem/1039)|[스타트 택시](https://www.acmicpc.net/problem/19238)|
+|22주차(07.08~07.14)|[달력](https://www.acmicpc.net/problem/20207)|[잠수함식별](https://www.acmicpc.net/problem/2671)|[민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|[개미굴](https://www.acmicpc.net/problem/14725)|
 
 
 ## 참고
