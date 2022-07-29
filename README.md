@@ -43,6 +43,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |22주차(07.08~07.14)|[달력](https://www.acmicpc.net/problem/20207)|[잠수함식별](https://www.acmicpc.net/problem/2671)|[민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|[개미굴](https://www.acmicpc.net/problem/14725)|
 |23주차(07.15~07.22)|[소변기](https://www.acmicpc.net/problem/3186)|[팔](https://www.acmicpc.net/problem/1105)|[벽장문의 이동](https://www.acmicpc.net/problem/2666)|[나무 재테크](https://www.acmicpc.net/problem/16235)|[쇼핑몰](https://www.acmicpc.net/problem/17612)|
 |24주차(07.23~07.29)|[졸려](https://www.acmicpc.net/problem/9519)|[가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)|[뮤탈리스크](https://www.acmicpc.net/problem/12869)|[도시 건설](https://www.acmicpc.net/problem/21924)|[텀 프로젝트](https://www.acmicpc.net/problem/9466)|
+|25주차(07.30~08.05)|[민겸 수](https://www.acmicpc.net/problem/21314)|[백도어](https://www.acmicpc.net/problem/17396)|[인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)|[스-스-스도쿠](https://www.acmicpc.net/problem/4056)|[돌 그룹](https://www.acmicpc.net/problem/12886)|
 
 
 ## 참고
