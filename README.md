@@ -46,6 +46,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |25주차(07.30~08.05)|[민겸 수](https://www.acmicpc.net/problem/21314)|[백도어](https://www.acmicpc.net/problem/17396)|[인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)|[스-스-스도쿠](https://www.acmicpc.net/problem/4056)|[돌 그룹](https://www.acmicpc.net/problem/12886)|
 |26주차(08.06~08.12)|[A → B](https://www.acmicpc.net/problem/16953)|[⚾](https://www.acmicpc.net/problem/17281)|[모양 만들기](https://www.acmicpc.net/problem/16932)|[Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|
 |27주차(08.13~08.19)|[모두의 마블](https://www.acmicpc.net/problem/12845)|[꽃길](https://www.acmicpc.net/problem/14620)|[레벨 햄버거](https://www.acmicpc.net/problem/16974)|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)|[물대기](https://www.acmicpc.net/problem/1368)|
+|28주차(08.20~08.26)|[주식](https://www.acmicpc.net/problem/11501)|[빙산](https://www.acmicpc.net/problem/2573)|[탈출](https://www.acmicpc.net/problem/3055)|[화장실의 규칙](https://www.acmicpc.net/problem/19640)|[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
