@@ -47,6 +47,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |26주차(08.06~08.12)|[A → B](https://www.acmicpc.net/problem/16953)|[⚾](https://www.acmicpc.net/problem/17281)|[모양 만들기](https://www.acmicpc.net/problem/16932)|[Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|
 |27주차(08.13~08.19)|[모두의 마블](https://www.acmicpc.net/problem/12845)|[꽃길](https://www.acmicpc.net/problem/14620)|[레벨 햄버거](https://www.acmicpc.net/problem/16974)|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)|[물대기](https://www.acmicpc.net/problem/1368)|
 |28주차(08.20~08.26)|[주식](https://www.acmicpc.net/problem/11501)|[빙산](https://www.acmicpc.net/problem/2573)|[탈출](https://www.acmicpc.net/problem/3055)|[화장실의 규칙](https://www.acmicpc.net/problem/19640)|[합이 0인 네 정수](https://www.acmicpc.net/problem/7453)|
+|29주차(08.27~09.02)|[비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)|[알 수 없는 문장](https://www.acmicpc.net/problem/1099)|[그리드 네트워크](https://www.acmicpc.net/problem/18769)|[기업투자](https://www.acmicpc.net/problem/2662)|[주사위 굴리기 2](https://www.acmicpc.net/problem/23288)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
