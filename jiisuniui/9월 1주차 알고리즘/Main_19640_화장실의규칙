@@ -1,0 +1,76 @@
+
+import java.util.Scanner;
+import java.util.LinkedList;
+import java.util.PriorityQueue;
+import java.util.Comparator;
+
+public class Main_19640_화장실의규칙 {
+
+    static class Emp {
+        int date, hurry, line, num;
+
+        public Emp(int date, int hurry, int line, int num) {
+            this.date = date;
+            this.hurry = hurry;
+            this.line = line;
+            this.num = num;
+        }
+    }
+
+    static int N, M, K;
+
+    public static void main(String[] args) throws Exception {
+        Scanner scann = new Scanner(System.in);
+        N = scann.nextInt();
+        M = scann.nextInt();
+        K = scann.nextInt(); // 데카의위치 (배열에 넣을때 기준)
+        LinkedList<Emp>[] employee = new LinkedList[M];
+        for (int i = 0; i < M; i++) {
+            employee[i] = new LinkedList<>();
+        }
+        for (int i = 0; i < N; i++) {
+            int D = scann.nextInt();
+            int H = scann.nextInt();
+            employee[i % M].add(new Emp(D, H, i % M, i));
+        }
+        PriorityQueue<Emp> waiting = new PriorityQueue<>(new Comparator<Emp>() {
+            public int compare(Emp o1, Emp o2) {
+                if (o1.date == o2.date) {
+                    if (o1.hurry == o2.hurry) {
+                        return o1.line - o2.line;
+                    } else {
+                        return (o2.hurry - o1.hurry);
+                    }
+                } else {
+                    return (o2.date - o1.date);
+                }
+            }
+        });
+
+        // 줄의 맨 앞 넣음
+        for (int i = 0; i < M; i++) {
+            if (employee[i].size() == 0) {
+                break;
+            }
+            Emp emp = employee[i].remove(0);
+            waiting.add(emp);
+        }
+
+        int ans = 0;
+        while (!(waiting.isEmpty())) {
+            ans++;
+            Emp emp = waiting.poll();
+            if (emp.num == K) { // 데카면 끝
+                break;
+            }
+            if (employee[emp.line].size() == 0) { // emp가 줄의 마지막이었으면 waiting에 추가 안하고 넘어감
+                continue;
+            }
+
+            waiting.add(employee[emp.line].remove(0)); // emp 줄의 다음사람 넣음
+        }
+
+        System.out.println(ans - 1); // 기다린사람수
+        scann.close();
+    }
+}
