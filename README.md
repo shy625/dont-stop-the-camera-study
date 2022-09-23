@@ -51,6 +51,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |30주차(09.03~09.09)|[미친 로봇](https://www.acmicpc.net/problem/1405)|[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)|[가르침](https://www.acmicpc.net/problem/1062)|[회사 문화 1](https://www.acmicpc.net/problem/14267)|[트리의 기둥과 가지](https://www.acmicpc.net/problem/20924)|
 |31주차(09.10~09.16)|[물통](https://www.acmicpc.net/problem/2251)|[빗물](https://www.acmicpc.net/problem/14719)|[마지막 조별 시합](https://www.acmicpc.net/problem/2128)|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[나머지 합](https://www.acmicpc.net/problem/10986)|
 |32주차(09.17~09.23)|[표절](https://www.acmicpc.net/problem/2428)|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|[불!](https://www.acmicpc.net/problem/4179)|[고기잡이](https://www.acmicpc.net/problem/7573)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|
+|33주차(09.24~09.30)|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|[가장 먼 곳](https://www.acmicpc.net/problem/22865)|[괄호](https://www.acmicpc.net/problem/10422)|[퍼레이드](https://www.acmicpc.net/problem/12956)|[성냥개비](https://www.acmicpc.net/problem/3687)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
