@@ -16,6 +16,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 문제 선정 시 참고 링크
 - [Baekjoon의 단계별로 풀어보기](https://www.acmicpc.net/step)
 - [tony9402님의 코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
+- [Programmers 코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc)
 
 | |1|2|3|4|5|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -52,6 +53,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |31주차(09.10~09.16)|[물통](https://www.acmicpc.net/problem/2251)|[빗물](https://www.acmicpc.net/problem/14719)|[마지막 조별 시합](https://www.acmicpc.net/problem/2128)|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[나머지 합](https://www.acmicpc.net/problem/10986)|
 |32주차(09.17~09.23)|[표절](https://www.acmicpc.net/problem/2428)|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|[불!](https://www.acmicpc.net/problem/4179)|[고기잡이](https://www.acmicpc.net/problem/7573)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|
 |33주차(09.24~09.30)|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|[가장 먼 곳](https://www.acmicpc.net/problem/22865)|[괄호](https://www.acmicpc.net/problem/10422)|[퍼레이드](https://www.acmicpc.net/problem/12956)|[성냥개비](https://www.acmicpc.net/problem/3687)|
+|34주차(10.01~10.07)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|[코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)|[행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
