@@ -1,0 +1,52 @@
+package Programmers;
+
+import java.util.Queue;
+import java.util.LinkedList;
+
+class Solution_Lv2_두큐합같게만들기 {
+    public int solution(int[] queue1, int[] queue2) {
+        Queue<Integer> q1 = new LinkedList<>();
+        Queue<Integer> q2 = new LinkedList<>();
+        long qsum1 = 0;
+        long qsum2 = 0;
+        long sum = 0;
+        for (int i : queue1) {
+            q1.add(i);
+            qsum1 += i;
+        }
+        for (int i : queue2) {
+            q2.add(i);
+            qsum2 += i;
+        }
+        sum = qsum1 + qsum2;
+
+        int answer = 0;
+        if (sum % 2 == 1) {
+            answer = -1;
+        } else {
+            sum /= 2;
+            while (qsum1 != qsum2) {
+                if (qsum1 > qsum2) {
+                    answer++;
+                    qsum1 -= q1.peek();
+                    qsum2 += q1.peek();
+                    q2.add(q1.poll());
+                } else {
+                    answer++;
+                    qsum2 -= q2.peek();
+                    qsum1 += q2.peek();
+                    q1.add(q2.poll());
+                }
+                if (qsum1 == qsum2) {
+                    break;
+                }
+                if (answer > 2 * (q1.size() + q2.size())) {
+                    answer = -1;
+                    break;
+                }
+            }
+        }
+
+        return answer;
+    }
+}
