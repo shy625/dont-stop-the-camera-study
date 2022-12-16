@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class kakao_2020_lv2_보석쇼핑 {
+class kakao_2020_lv3_보석쇼핑 {
     // 1. HashSet에 gems 배열을 넣어서 보석의 종류와 길이를 알아낸다.
     // 2. 먼저 right를 +1씩 늘려가면서 map에 한 번도 찾지 않은 보석들을 1로 넣어준다.
     // 3. 위의 과정 중, 이미 있는 보석은 +1해서 다시 넣어준다.
