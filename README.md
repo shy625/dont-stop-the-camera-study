@@ -63,6 +63,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |41주차(12.03~12.09)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)|
 |42주차(12.10~12.16)|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|[동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)|
 |43주차(12.17~12.23)|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)|
+|44주차(12.24~12.30)|[먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|[친구](https://www.acmicpc.net/problem/1058)|[부등호](https://www.acmicpc.net/problem/2529)|[거울](https://www.acmicpc.net/problem/2344)|[환승](https://www.acmicpc.net/problem/5214)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
