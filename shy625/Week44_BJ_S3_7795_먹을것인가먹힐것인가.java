@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class BJ_S3_7795_먹을것인가먹힐것인가 {
+public class Week44_BJ_S3_7795_먹을것인가먹힐것인가 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;
