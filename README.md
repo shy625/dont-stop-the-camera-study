@@ -65,6 +65,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |43주차(12.17~12.23)|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)|
 |44주차(12.24~12.30)|[먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)|[친구](https://www.acmicpc.net/problem/1058)|[부등호](https://www.acmicpc.net/problem/2529)|[거울](https://www.acmicpc.net/problem/2344)|[환승](https://www.acmicpc.net/problem/5214)|
 |45주차(12.31~01.06)|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|[조 짜기](https://www.acmicpc.net/problem/2229)|[감시 피하기](https://www.acmicpc.net/problem/18428)|[보스몬스터 전리품](https://www.acmicpc.net/problem/20005)|
+|46주차(01.07~01.14)|[후보 추천하기](https://www.acmicpc.net/problem/1713)|[다이어트](https://www.acmicpc.net/problem/1484)|[자두나무](https://www.acmicpc.net/problem/2240)|[팰린드롬 게임](https://www.acmicpc.net/problem/24553)|[불켜기](https://www.acmicpc.net/problem/11967)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
