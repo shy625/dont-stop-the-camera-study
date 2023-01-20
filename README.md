@@ -67,6 +67,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |45주차(12.31~01.06)|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|[조 짜기](https://www.acmicpc.net/problem/2229)|[감시 피하기](https://www.acmicpc.net/problem/18428)|[보스몬스터 전리품](https://www.acmicpc.net/problem/20005)|
 |46주차(01.07~01.14)|[후보 추천하기](https://www.acmicpc.net/problem/1713)|[다이어트](https://www.acmicpc.net/problem/1484)|[자두나무](https://www.acmicpc.net/problem/2240)|[팰린드롬 게임](https://www.acmicpc.net/problem/24553)|[불켜기](https://www.acmicpc.net/problem/11967)|
 |47주차(01.15~01.20)|[대표 자연수](https://www.acmicpc.net/problem/2548)|[주사위 쌓기](https://www.acmicpc.net/problem/2116)|[졸려](https://www.acmicpc.net/problem/9519)|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[모노미노도미노 2](https://www.acmicpc.net/problem/20061)|
+|48주차(01.21~01.27)|[추월](https://www.acmicpc.net/problem/2002)|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|[드래곤 앤 던전](https://www.acmicpc.net/problem/16434)|[불우이웃돕기](https://www.acmicpc.net/problem/1414)|[피리 부는 사나이](https://www.acmicpc.net/problem/16724)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
