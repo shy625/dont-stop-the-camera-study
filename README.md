@@ -68,6 +68,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |46주차(01.07~01.14)|[후보 추천하기](https://www.acmicpc.net/problem/1713)|[다이어트](https://www.acmicpc.net/problem/1484)|[자두나무](https://www.acmicpc.net/problem/2240)|[팰린드롬 게임](https://www.acmicpc.net/problem/24553)|[불켜기](https://www.acmicpc.net/problem/11967)|
 |47주차(01.15~01.20)|[대표 자연수](https://www.acmicpc.net/problem/2548)|[주사위 쌓기](https://www.acmicpc.net/problem/2116)|[졸려](https://www.acmicpc.net/problem/9519)|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[모노미노도미노 2](https://www.acmicpc.net/problem/20061)|
 |48주차(01.21~01.27)|[추월](https://www.acmicpc.net/problem/2002)|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|[드래곤 앤 던전](https://www.acmicpc.net/problem/16434)|[불우이웃돕기](https://www.acmicpc.net/problem/1414)|[피리 부는 사나이](https://www.acmicpc.net/problem/16724)|
+|49주차(01.28~02.06)|[최고의 피자](https://www.acmicpc.net/problem/5545)|[사다리](https://www.acmicpc.net/problem/3061)|[가희와 프로세스 1](https://www.acmicpc.net/problem/21773)|[구슬 찾기](https://www.acmicpc.net/problem/2617)|[Messi Gimossi](https://www.acmicpc.net/problem/17297)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
