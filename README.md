@@ -71,6 +71,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |49주차(01.28~02.06)|[최고의 피자](https://www.acmicpc.net/problem/5545)|[사다리](https://www.acmicpc.net/problem/3061)|[가희와 프로세스 1](https://www.acmicpc.net/problem/21773)|[구슬 찾기](https://www.acmicpc.net/problem/2617)|[Messi Gimossi](https://www.acmicpc.net/problem/17297)|
 |50주차(02.07~02.12)|[초콜릿 식사](https://www.acmicpc.net/problem/2885)|[한글 LCS](https://www.acmicpc.net/problem/15482)|[ZOAC](https://www.acmicpc.net/problem/16719)|[얼음깨기 펭귄](https://www.acmicpc.net/problem/21738)|[리조트](https://www.acmicpc.net/problem/13302)|
 |51주차(02.21~02.27)|[레이저빔은 어디로](https://www.acmicpc.net/problem/3709)|[순열의 순서](https://www.acmicpc.net/problem/1722)|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|[으어어… 에이쁠 주세요..](https://www.acmicpc.net/problem/23031)|[배열 B의 값](https://www.acmicpc.net/problem/16971)|
+|52주차(02.28~03.05)|[넴모넴모(Easy)](https://www.acmicpc.net/problem/14712)|[도미노 넘어뜨리기](https://www.acmicpc.net/problem/25633)|[되돌리기](https://www.acmicpc.net/problem/1360)|[항체 인식](https://www.acmicpc.net/problem/22352)|[월드컵](https://www.acmicpc.net/problem/6987)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
