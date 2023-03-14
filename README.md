@@ -73,6 +73,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |51주차(02.21~02.27)|[레이저빔은 어디로](https://www.acmicpc.net/problem/3709)|[순열의 순서](https://www.acmicpc.net/problem/1722)|[직사각형 탈출](https://www.acmicpc.net/problem/16973)|[으어어… 에이쁠 주세요..](https://www.acmicpc.net/problem/23031)|[배열 B의 값](https://www.acmicpc.net/problem/16971)|
 |52주차(02.28~03.05)|[넴모넴모(Easy)](https://www.acmicpc.net/problem/14712)|[도미노 넘어뜨리기](https://www.acmicpc.net/problem/25633)|[되돌리기](https://www.acmicpc.net/problem/1360)|[항체 인식](https://www.acmicpc.net/problem/22352)|[월드컵](https://www.acmicpc.net/problem/6987)|
 |53주차(03.06~03.12)|[기타리스트](https://www.acmicpc.net/problem/1495)|[거짓말](https://www.acmicpc.net/problem/1043)|[INHA SUIT](https://www.acmicpc.net/problem/12786)|[소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)|[뮤직 플레이리스트](https://www.acmicpc.net/problem/25049)|
+|54주차(03.13~03.20)|[지뢰](https://www.acmicpc.net/problem/2232)|[싫은데요](https://www.acmicpc.net/problem/25916)|[개근상](https://www.acmicpc.net/problem/1563)|[인싸들의 가위바위보](https://www.acmicpc.net/problem/16986)|[스티커 붙이기](https://www.acmicpc.net/problem/18808)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
