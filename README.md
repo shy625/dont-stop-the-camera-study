@@ -76,6 +76,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |54주차(03.13~03.20)|[지뢰](https://www.acmicpc.net/problem/2232)|[싫은데요](https://www.acmicpc.net/problem/25916)|[개근상](https://www.acmicpc.net/problem/1563)|[인싸들의 가위바위보](https://www.acmicpc.net/problem/16986)|[스티커 붙이기](https://www.acmicpc.net/problem/18808)|
 |55주차(03.21~03.27)|[올바른 배열](https://www.acmicpc.net/problem/1337)|[퇴사](https://www.acmicpc.net/problem/14501)|[도서관](https://www.acmicpc.net/problem/1461)|[가희와 은행](https://www.acmicpc.net/problem/22234)|[도로](https://www.acmicpc.net/problem/9344)|
 |56주차(03.28~04.02)|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[비밀번호](https://www.acmicpc.net/problem/2780)|[보석 구매하기](https://www.acmicpc.net/problem/2313)|[여왕벌](https://www.acmicpc.net/problem/10836)|[견우와 직녀](https://www.acmicpc.net/problem/16137)|
+|57주차(04.03~04.09)|[Yacht Dice](https://www.acmicpc.net/problem/27162)|[졸업 사진](https://www.acmicpc.net/problem/23349)|[열차 시간표(Small)](https://www.acmicpc.net/problem/12731)|[문자판](https://www.acmicpc.net/problem/2186)|[우주 탐사선](https://www.acmicpc.net/problem/17182)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
