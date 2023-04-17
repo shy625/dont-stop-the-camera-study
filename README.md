@@ -78,6 +78,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |56주차(03.28~04.02)|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[비밀번호](https://www.acmicpc.net/problem/2780)|[보석 구매하기](https://www.acmicpc.net/problem/2313)|[여왕벌](https://www.acmicpc.net/problem/10836)|[견우와 직녀](https://www.acmicpc.net/problem/16137)|
 |57주차(04.03~04.09)|[Yacht Dice](https://www.acmicpc.net/problem/27162)|[졸업 사진](https://www.acmicpc.net/problem/23349)|[열차 시간표(Small)](https://www.acmicpc.net/problem/12731)|[문자판](https://www.acmicpc.net/problem/2186)|[우주 탐사선](https://www.acmicpc.net/problem/17182)|
 |58주차(04.10~04.16)|[한 줄로 서기](https://www.acmicpc.net/problem/1138)|[단어 만들기](https://www.acmicpc.net/problem/1148)|[가희와 자원 놀이](https://www.acmicpc.net/problem/21775)|[선물 전달](https://www.acmicpc.net/problem/1947)|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|
+|59주차(04.17~04.23)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[헨리](https://www.acmicpc.net/problem/10253)|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|[카드 섞기](https://www.acmicpc.net/problem/21315)|[가희와 지하철역 저장 시스템 1](https://www.acmicpc.net/problem/27888)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
