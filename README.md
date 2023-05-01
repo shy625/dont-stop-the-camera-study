@@ -80,6 +80,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |58주차(04.10~04.16)|[한 줄로 서기](https://www.acmicpc.net/problem/1138)|[단어 만들기](https://www.acmicpc.net/problem/1148)|[가희와 자원 놀이](https://www.acmicpc.net/problem/21775)|[선물 전달](https://www.acmicpc.net/problem/1947)|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|
 |59주차(04.17~04.23)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[헨리](https://www.acmicpc.net/problem/10253)|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|[카드 섞기](https://www.acmicpc.net/problem/21315)|[가희와 지하철역 저장 시스템 1](https://www.acmicpc.net/problem/27888)|
 |60주차(04.24~04.30)|[악덕 사장](https://www.acmicpc.net/problem/14233)|[유전자 조합](https://www.acmicpc.net/problem/25758)|[4와 7](https://www.acmicpc.net/problem/2877)|[A를 B로](https://www.acmicpc.net/problem/13019)|[단어 암기](https://www.acmicpc.net/problem/18119)|
+|61주차(05.01~05.07)|[병사 배치하기](https://www.acmicpc.net/problem/18353)|[버섯 농장](https://www.acmicpc.net/problem/27737)|[빌런 호석](https://www.acmicpc.net/problem/22251)|[카드 섞기](https://www.acmicpc.net/problem/1091)|[내리막 길](https://www.acmicpc.net/problem/1520)|
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
