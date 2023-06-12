@@ -86,6 +86,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |64주차(05.22~05.28)|[시간표 짜기](https://www.acmicpc.net/problem/14569)|[관악산 등반](https://www.acmicpc.net/problem/14699)| | | |
 |65주차(05.29~06.04)|[현명한 나이트](https://www.acmicpc.net/problem/18404)|[북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)|[화학 제품](https://www.acmicpc.net/problem/8901)|[안정된 집단](https://www.acmicpc.net/problem/2653)|[택배](https://www.acmicpc.net/problem/1719)|
 |66주차(06.05~06.11)|[헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|[알약](https://www.acmicpc.net/problem/4811)|[Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500)|[구간 나누기 2](https://www.acmicpc.net/problem/13397)| |
+|67주차(06.12~06.18)|[문자열 교환](https://www.acmicpc.net/problem/1522)|[색종이 올려 놓기](https://www.acmicpc.net/problem/2643)|[연구소 2](https://www.acmicpc.net/problem/17141)| | |
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
