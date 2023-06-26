@@ -88,6 +88,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |66주차(06.05~06.11)|[헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|[알약](https://www.acmicpc.net/problem/4811)|[Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500)|[구간 나누기 2](https://www.acmicpc.net/problem/13397)| |
 |67주차(06.12~06.18)|[문자열 교환](https://www.acmicpc.net/problem/1522)|[색종이 올려 놓기](https://www.acmicpc.net/problem/2643)|[연구소 2](https://www.acmicpc.net/problem/17141)| | |
 |68주차(06.19~06.25)|[최대 페이지 수](https://www.acmicpc.net/problem/16493)|[장난꾸러기 영훈](https://www.acmicpc.net/problem/12025)|[알고스팟](https://www.acmicpc.net/problem/1261)|[MST 게임](https://www.acmicpc.net/problem/16202)| |
+|69주차(06.26~07.02)|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117)|[박스포장](https://www.acmicpc.net/problem/1997)|[백양로 브레이크](https://www.acmicpc.net/problem/11562)| |
 
 ## 참고
 - [ellynhan님의 challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)
