@@ -95,6 +95,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |73주차(07.24~07.30)|[참외밭](https://www.acmicpc.net/problem/2477)|[정보 상인 호석](https://www.acmicpc.net/problem/22252)|[두 동전](https://www.acmicpc.net/problem/16197)|[아맞다우산](https://www.acmicpc.net/problem/17244)| |
 |74주차(07.31~08.06)|[너의 티어는?](https://www.acmicpc.net/problem/14613)|[문자열 복사](https://www.acmicpc.net/problem/2195)|[배수 공사](https://www.acmicpc.net/problem/15817)|[방 번호](https://www.acmicpc.net/problem/1082)| |
 |75주차(08.07~08.13)|[숨바꼭질](https://www.acmicpc.net/problem/6118)|[트럭](https://www.acmicpc.net/problem/13335)|[동전 바꿔주기](https://www.acmicpc.net/problem/2624)|[캠프 준비](https://www.acmicpc.net/problem/16938)| |
+|76주차(08.14~08.20)|[기타리스트](https://www.acmicpc.net/problem/1495)|[계란으로 계란치기](https://www.acmicpc.net/problem/16987)|[아름다운 문자열](https://www.acmicpc.net/problem/24524)|[램프](https://www.acmicpc.net/problem/1034)| |
 
 
 ## 참고
