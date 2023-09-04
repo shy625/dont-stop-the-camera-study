@@ -98,6 +98,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |76주차(08.14~08.20)|[기타리스트](https://www.acmicpc.net/problem/1495)|[계란으로 계란치기](https://www.acmicpc.net/problem/16987)|[아름다운 문자열](https://www.acmicpc.net/problem/24524)|[램프](https://www.acmicpc.net/problem/1034)| |
 |77주차(08.21~08.27)|[비슷한 단어](https://www.acmicpc.net/problem/1411)|[트리](https://www.acmicpc.net/problem/1068)|[골목 대장 호석](https://www.acmicpc.net/problem/20168)|[친구비](https://www.acmicpc.net/problem/16562)| |
 |78주차(08.28~09.03)|[물병](https://www.acmicpc.net/problem/1052)|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[피자 오븐](https://www.acmicpc.net/problem/19940)|[이분 그래프](https://www.acmicpc.net/problem/1707)| |
+|79주차(09.04~09.10)|[색종이 만들기](https://www.acmicpc.net/problem/2630)|[농장 관리](https://www.acmicpc.net/problem/1245)|[두 용액](https://www.acmicpc.net/problem/2470)|[달려달려](https://www.acmicpc.net/problem/1757)| |
 
 
 ## 참고
