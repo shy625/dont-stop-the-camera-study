@@ -102,6 +102,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |80주차(09.11~09.17)|[원숭이 매달기](https://www.acmicpc.net/problem/2716)|[주간 미팅](https://www.acmicpc.net/problem/12834)|[떡 돌리기](https://www.acmicpc.net/problem/20007)|[알파 틱택토](https://www.acmicpc.net/problem/16571)| |
 |81주차(09.18~09.24)|[십자가 찾기](https://www.acmicpc.net/problem/16924)|[다이어트](https://www.acmicpc.net/problem/19942)|[전화번호 목록](https://www.acmicpc.net/problem/5052)|[연구소 3](https://www.acmicpc.net/problem/17142)| |
 |82주차(09.25~10.08)|[욱제는 정치쟁이야!!](https://www.acmicpc.net/problem/15925)|[시간 관리](https://www.acmicpc.net/problem/1263)|[선 긋기](https://www.acmicpc.net/problem/2170)|[코코스](https://www.acmicpc.net/problem/3178)|[개미굴](https://www.acmicpc.net/problem/14725)|
+|83주차(10.09~10.15)|[Yonsei TOTO](https://www.acmicpc.net/problem/12018)|[지구 온난화](https://www.acmicpc.net/problem/5212)|[암호코드](https://www.acmicpc.net/problem/2011)|[두 수의 합](https://www.acmicpc.net/problem/9024)| |
 
 
 ## 참고
