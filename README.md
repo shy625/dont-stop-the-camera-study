@@ -105,6 +105,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |83주차(10.09~10.15)|[Yonsei TOTO](https://www.acmicpc.net/problem/12018)|[지구 온난화](https://www.acmicpc.net/problem/5212)|[암호코드](https://www.acmicpc.net/problem/2011)|[두 수의 합](https://www.acmicpc.net/problem/9024)| |
 |84주차(10.16~10.22)|[소셜네트워크](https://www.acmicpc.net/problem/3098)|[Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)|[러버덕을 사랑하는 모임](https://www.acmicpc.net/problem/18233)|[연애 혁명](https://www.acmicpc.net/problem/27498)| |
 |85주차(10.23~10.29)|[도어맨](https://www.acmicpc.net/problem/5002)|[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[소트 게임](https://www.acmicpc.net/problem/1327)|[수 묶기](https://www.acmicpc.net/problem/1744)| |
+|86주차(10.30~11.05)|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[단풍잎 이야기](https://www.acmicpc.net/problem/16457)|[흙길 보수하기](https://www.acmicpc.net/problem/1911)|[전국시대](https://www.acmicpc.net/problem/15809)| |
 
 
 ## 참고
