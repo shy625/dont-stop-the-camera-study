@@ -107,6 +107,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |85주차(10.23~10.29)|[도어맨](https://www.acmicpc.net/problem/5002)|[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[소트 게임](https://www.acmicpc.net/problem/1327)|[수 묶기](https://www.acmicpc.net/problem/1744)| |
 |86주차(10.30~11.05)|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[단풍잎 이야기](https://www.acmicpc.net/problem/16457)|[흙길 보수하기](https://www.acmicpc.net/problem/1911)|[전국시대](https://www.acmicpc.net/problem/15809)| |
 |87주차(11.06~11.12)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[제곱수 찾기](https://www.acmicpc.net/problem/1025)|[끝나지 않는 파티](https://www.acmicpc.net/problem/11265)|[화살을 쏘자!](https://www.acmicpc.net/problem/20157)| |
+|88주차(11.13~11.19)|[올림픽 게임](https://www.acmicpc.net/problem/7507)|[호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)|[X와 K](https://www.acmicpc.net/problem/1322)|[사이클 게임](https://www.acmicpc.net/problem/20040)| |
 
 
 ## 참고
