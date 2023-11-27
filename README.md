@@ -109,6 +109,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |87주차(11.06~11.12)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[제곱수 찾기](https://www.acmicpc.net/problem/1025)|[끝나지 않는 파티](https://www.acmicpc.net/problem/11265)|[화살을 쏘자!](https://www.acmicpc.net/problem/20157)| |
 |88주차(11.13~11.19)|[올림픽 게임](https://www.acmicpc.net/problem/7507)|[호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)|[X와 K](https://www.acmicpc.net/problem/1322)|[사이클 게임](https://www.acmicpc.net/problem/20040)| |
 |89주차(11.20~11.26)|[만남의 광장](https://www.acmicpc.net/problem/25708)|[등차수열 변환](https://www.acmicpc.net/problem/17088)|[몬스터를 처치하자!](https://www.acmicpc.net/problem/20008)|[알파벳](https://www.acmicpc.net/problem/1987)| |
+|90주차(11.27~12.03)|[영내순환버스](https://www.acmicpc.net/problem/27278)|[나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265)|[이진수 게임](https://www.acmicpc.net/problem/18112)|[주난의 난(難)](https://www.acmicpc.net/problem/14497)| |
 
 
 ## 참고
