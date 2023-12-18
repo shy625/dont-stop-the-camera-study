@@ -112,6 +112,10 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |90주차(11.27~12.03)|[영내순환버스](https://www.acmicpc.net/problem/27278)|[나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265)|[이진수 게임](https://www.acmicpc.net/problem/18112)|[주난의 난(難)](https://www.acmicpc.net/problem/14497)| |
 |91주차(12.04~12.10)|[캔 주기](https://www.acmicpc.net/problem/25602)|[로마 숫자](https://www.acmicpc.net/problem/2608)|[소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511)|[김밥천국의 계단](https://www.acmicpc.net/problem/28069)| |
 |92주차(12.11~12.17)|[222-풀링](https://www.acmicpc.net/problem/17829)|[순서](https://www.acmicpc.net/problem/9011)|[십자뒤집기](https://www.acmicpc.net/problem/10472)|[최대 합 순서쌍의 개수](https://www.acmicpc.net/problem/30646)| |
+|93주차(12.18~12.31)|[1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)| | |
+|93주차(12.18~12.31)|[작업](https://www.acmicpc.net/problem/2056)|[구슬게임](https://www.acmicpc.net/problem/2600)|[창영이와 퇴근](https://www.acmicpc.net/problem/22116)| | |
+
+
 
 
 ## 참고
