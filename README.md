@@ -115,6 +115,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |93주차(12.18~12.31)|[1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)| | |
 |93주차(12.18~12.31)|[작업](https://www.acmicpc.net/problem/2056)|[구슬게임](https://www.acmicpc.net/problem/2600)|[창영이와 퇴근](https://www.acmicpc.net/problem/22116)| | |
 |94주차(01.01~01.07)|[월향, 비상](https://www.acmicpc.net/problem/29336)|[오렌지 출하](https://www.acmicpc.net/problem/11985)|[ABCDE](https://www.acmicpc.net/problem/13023)|[보물 찾기 2](https://www.acmicpc.net/problem/27978)| |
+|95주차(01.08~01.14)|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|[딸기와 토마토](https://www.acmicpc.net/problem/25565)|[준규와 사과](https://www.acmicpc.net/problem/5913)|[IQ Test](https://www.acmicpc.net/problem/1111)| |
 
 
 
