@@ -2,12 +2,14 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.StringTokenizer;
 
 public class BOJ_G5_17089_세친구 {
 	static int N, min;
-	static List<ArrayList<Integer>> list;
+	static List<Set<Integer>> list;
 	static boolean [] v;
 
 	public static void main(String[] args) throws IOException {
@@ -16,13 +18,14 @@ public class BOJ_G5_17089_세친구 {
 		
 		N = Integer.parseInt(st.nextToken());
 		int M = Integer.parseInt(st.nextToken());
-		// 친구 관계를 저장하기 위해 이중 ArrayList를 사용함
-		list = new ArrayList<ArrayList<Integer>>();
+		// 임의의 A와 B의 친구 관계를 저장하기 위해 ArrayList를 사용하고,
+		// B의 친구인 C의 친구 중에 A가 있는지 O(1)로 확인하기 위해 HashMap을 사용함.
+		list = new ArrayList<Set<Integer>>();
 		v = new boolean[N+1];
 		
 		// list 초기화 작업
 		for (int i = 0; i <= N; i++) {
-			list.add(new ArrayList<Integer>());
+			list.add(new HashSet<Integer>());
 		}
 		
 		for (int i = 0; i < M; i++) {
@@ -60,13 +63,12 @@ public class BOJ_G5_17089_세친구 {
 				// 만약 end가 start와 동일인물이라면 넘어간다.
 				if(start == end) continue;
 				// 만약 end와 start가 친구가 아니라면 넘어간다. (문제 조건 만족하지 못함)
-				if(list.get(end).indexOf(start) == -1) continue;
-						
+				if(!list.get(end).contains(start)) continue;
+				
 				// A의 친구 수, B의 친구 수, C의 친구 수를 더하고,
 				// 6을 빼준 값을 min과 비교하여 갱신한다.
 				int size = list.get(start).size() + list.get(mid).size() + list.get(end).size() - 6;
 				min = Math.min(min, size);
-						
 			}
 			
 		}
