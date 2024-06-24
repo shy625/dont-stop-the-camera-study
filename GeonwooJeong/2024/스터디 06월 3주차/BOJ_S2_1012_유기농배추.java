@@ -22,12 +22,13 @@ public class BOJ_S2_1012_유기농배추 {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			M = Integer.parseInt(st.nextToken());
 			N = Integer.parseInt(st.nextToken());
-			int num = Integer.parseInt(st.nextToken());
+			int K = Integer.parseInt(st.nextToken());
+
 			map = new int[N][M];
 			v = new boolean[N][M];
 			int ans = 0;
 			
-			for (int i = 0; i < num; i++) {
+			for (int i = 0; i < K; i++) {
 				st = new StringTokenizer(br.readLine());
 				int a = Integer.parseInt(st.nextToken());
 				int b = Integer.parseInt(st.nextToken());
@@ -36,6 +37,8 @@ public class BOJ_S2_1012_유기농배추 {
 			
 			for (int i = 0; i < N; i++) {
 				for (int j = 0; j < M; j++) {
+					// 배추가 심어져있고, 한 번도 방문하지 않은 땅이라면
+					// 배추흰지렁이를 1개 사용하고 bfs를 돌린다.
 					if(map[i][j] == 1 && !v[i][j]) {
 						ans++;
 						bfs(i, j);
@@ -68,6 +71,7 @@ public class BOJ_S2_1012_유기농배추 {
 				
 				if(!check(nr, nc)) continue;
 				
+				// 배추가 심어져있고, 아직 방문하지 않았다면 방문처리를 해준다.
 				if(map[nr][nc] == 1 && !v[nr][nc]) {
 					v[nr][nc] = true;
 					q.add(new int[] {nr, nc});

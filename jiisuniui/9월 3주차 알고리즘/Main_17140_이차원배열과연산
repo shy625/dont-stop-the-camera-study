@@ -1,0 +1,135 @@
+
+import java.util.Map;
+import java.util.HashMap;
+import java.util.PriorityQueue;
+import java.util.Scanner;
+
+public class Main_17140_이차원배열과연산 {
+    static int r, c, k;
+    static int maxR = 3;
+    static int maxC = 3;
+    static int[][] Arr = new int[100][100];
+
+    static class Pair implements Comparable<Pair> {
+        int number;
+        int count;
+
+        Pair(int number, int count) {
+            this.number = number;
+            this.count = count;
+        }
+
+        public int compareTo(Pair o) {
+            if (this.count > o.count) {
+                return 1;
+            } else if (this.count == o.count) {
+                return (this.number - o.number);
+            } else {
+                return -1;
+            }
+        }
+    }
+
+    public static void main(String[] args) throws Exception {
+        Scanner scann = new Scanner(System.in);
+        r = scann.nextInt();
+        c = scann.nextInt();
+        k = scann.nextInt();
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                Arr[i][j] = scann.nextInt();
+            }
+        }
+
+        int ans = 0;
+        for (ans = 0; ans <= 100; ans++) {
+            if (Arr[r - 1][c - 1] == k) {
+                break;
+            } else if (ans == 100) {
+                ans = -1;
+                break;
+            }
+
+            if (maxR >= maxC) { // R연산
+                calR();
+            } else { // C연산
+                calC();
+            }
+        }
+
+        System.out.println(ans);
+        scann.close();
+    }
+
+    public static void calR() {
+        for (int i = 0; i < maxR; i++) {
+            PriorityQueue<Pair> pq = new PriorityQueue<>();
+            Map<Integer, Integer> map = new HashMap<>();
+
+            for (int j = 0; j < maxC; j++) {
+                if (Arr[i][j] == 0) {
+                    continue;
+                }
+                map.compute(Arr[i][j], (number, count) -> count == null ? 1 : count + 1);
+                Arr[i][j] = 0;
+            }
+            map.forEach((key, value) -> pq.add(new Pair(key, value)));
+
+            int j = 0;
+            while (!pq.isEmpty() && j < 100) {
+                Pair p = pq.poll();
+                Arr[i][j] = p.number;
+                j++;
+                Arr[i][j] = p.count;
+                j++;
+            }
+
+            // j가 기존의 maxC보다 커졌다면 갱신
+            if (j > maxC) {
+                maxC = j;
+            }
+
+            // 아직 안채워진부분 0으로 채움
+            while (j < 100) {
+                Arr[i][j] = 0;
+                j++;
+                Arr[i][j] = 0;
+                j++;
+            }
+        }
+    }
+
+    public static void calC() {
+        for (int j = 0; j < maxC; j++) {
+            PriorityQueue<Pair> pq = new PriorityQueue<Pair>();
+            Map<Integer, Integer> map = new HashMap<>();
+
+            for (int i = 0; i < maxR; i++) {
+                if (Arr[i][j] == 0) {
+                    continue;
+                }
+                map.compute(Arr[i][j], (number, count) -> count == null ? 1 : count + 1);
+            }
+            map.forEach((key, value) -> pq.add(new Pair(key, value)));
+
+            int i = 0;
+            while (!pq.isEmpty() && i < 100) {
+                Pair p = pq.poll();
+                Arr[i][j] = p.number;
+                i++;
+                Arr[i][j] = p.count;
+                i++;
+            }
+            if (i > maxR) {
+                maxR = i;
+            }
+            while (i < 100) {
+                Arr[i][j] = 0;
+                i++;
+                Arr[i][j] = 0;
+                i++;
+            }
+        }
+    }
+
+}
