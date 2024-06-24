@@ -135,6 +135,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |111주차(05.27~06.02)|[동물원](https://www.acmicpc.net/problem/1309)|[팰린드롬 파티션](https://www.acmicpc.net/problem/2705)|[배](https://www.acmicpc.net/problem/1092)|[특별한 서빙](https://www.acmicpc.net/problem/27896)| |
 |112주차(06.03~06.09)|[등차수열의 합](https://www.acmicpc.net/problem/1419)|[포함하는 구간](https://www.acmicpc.net/problem/2107)|[가장 큰 값](https://www.acmicpc.net/problem/16494)|[소년 점프](https://www.acmicpc.net/problem/16469)| |
 |113주차(06.17~06.23)|[유기농 배추](https://www.acmicpc.net/problem/1012)|[물약 구매](https://www.acmicpc.net/problem/24954)|[선발 명단](https://www.acmicpc.net/problem/3980)|[누가 이길까](https://www.acmicpc.net/problem/28449)| |
+|114주차(06.24~06.30)|[파티를 열어라!!!](https://www.acmicpc.net/problem/5186)|[개똥벌레](https://www.acmicpc.net/problem/3020)|[복권 + 은행](https://www.acmicpc.net/problem/13258)|[귀찮은 해강이](https://www.acmicpc.net/problem/24391)| |
 
 
 
