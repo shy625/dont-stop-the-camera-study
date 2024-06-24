@@ -23,7 +23,7 @@ public class BOJ_S2_1012_유기농배추 {
 			M = Integer.parseInt(st.nextToken());
 			N = Integer.parseInt(st.nextToken());
 			int K = Integer.parseInt(st.nextToken());
-			
+
 			map = new int[N][M];
 			v = new boolean[N][M];
 			int ans = 0;
