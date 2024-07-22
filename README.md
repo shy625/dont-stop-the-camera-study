@@ -138,6 +138,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |114주차(06.24~06.30)|[파티를 열어라!!!](https://www.acmicpc.net/problem/5186)|[개똥벌레](https://www.acmicpc.net/problem/3020)|[복권 + 은행](https://www.acmicpc.net/problem/13258)|[귀찮은 해강이](https://www.acmicpc.net/problem/24391)| |
 |115주차(07.08~07.14)|[다음 팰린드롬 수](https://www.acmicpc.net/problem/1334)|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[방탈출](https://www.acmicpc.net/problem/23352)|[밥](https://www.acmicpc.net/problem/23559)| |
 |116주차(07.15~07.21)|[기타 레슨](https://www.acmicpc.net/problem/2343)|[직사각형의 개수](https://www.acmicpc.net/problem/2171)|[작은 벌점](https://www.acmicpc.net/problem/16498)|[전구 상태 뒤집기](https://www.acmicpc.net/problem/25634)| |
+|117주차(07.22~07.28)|[성준이와 초콜릿](https://www.acmicpc.net/problem/1674)|[레슬러](https://www.acmicpc.net/problem/1900)|[나무 블럭 게임](https://www.acmicpc.net/problem/27066)|[Yes or yes](https://www.acmicpc.net/problem/25195)| |
 
 
 
