@@ -141,6 +141,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |117주차(07.22~07.28)|[성준이와 초콜릿](https://www.acmicpc.net/problem/1674)|[레슬러](https://www.acmicpc.net/problem/1900)|[나무 블럭 게임](https://www.acmicpc.net/problem/27066)|[Yes or yes](https://www.acmicpc.net/problem/25195)| |
 |118주차(07.29~08.04)|[수들의 합 6](https://www.acmicpc.net/problem/1821)|[토달기](https://www.acmicpc.net/problem/1897)|[명상 방해꾼](https://www.acmicpc.net/problem/15980)|[편세권](https://www.acmicpc.net/problem/31849)| |
 |119주차(08.05~08.11)|[양](https://www.acmicpc.net/problem/3184)|[집합의 표현](https://www.acmicpc.net/problem/1717)|[트리 색칠하기](https://www.acmicpc.net/problem/24230)|[벼락치기](https://www.acmicpc.net/problem/29704)| |
+|120주차(08.12~08.18)|[자리수로 나누기](https://www.acmicpc.net/problem/1490)|[갤러리](https://www.acmicpc.net/problem/2115)|[결! 합!](https://www.acmicpc.net/problem/16722)|[문자열 추측](https://www.acmicpc.net/problem/16925)| |
 
 
 
