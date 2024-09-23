@@ -146,6 +146,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |122주차(08.26~09.01)|[국기 색칠하기](https://www.acmicpc.net/problem/30702)|[부분 삼각 수열](https://www.acmicpc.net/problem/1548)|[민식어](https://www.acmicpc.net/problem/1599)|[배열과 연산](https://www.acmicpc.net/problem/14222)| |
 |123주차(09.02~09.08)|[장기자랑](https://www.acmicpc.net/problem/27277)|[주사위](https://www.acmicpc.net/problem/1041)|[짱해커 이동식](https://www.acmicpc.net/problem/25603)|[2023년이 기대되는 이유](https://www.acmicpc.net/problem/27231)| |
 |124주차(09.09~09.22)|[INK](https://www.acmicpc.net/problem/30036)|[도로의 개수](https://www.acmicpc.net/problem/1577)|[모노톤길](https://www.acmicpc.net/problem/11067)|[고인물이싫어](https://www.acmicpc.net/problem/30508)| |
+|125주차(09.23~09.29)|[금공강 사수](https://www.acmicpc.net/problem/27375)|[조별 과제](https://www.acmicpc.net/problem/30960)|[합분해](https://www.acmicpc.net/problem/2225)|[핑거 스냅](https://www.acmicpc.net/problem/17394)| |
 
 
 
