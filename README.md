@@ -151,6 +151,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |127주차(10.07~10.13)|[전깃줄](https://www.acmicpc.net/problem/2565)|[병약한 윤호](https://www.acmicpc.net/problem/14677)|[가로등](https://www.acmicpc.net/problem/17430)|[지금 자면 꿈을 꾸지만](https://www.acmicpc.net/problem/32029)| |
 |128주차(10.14~10.20)|[돌리기](https://www.acmicpc.net/problem/1682)|[죽음의 등굣길](https://www.acmicpc.net/problem/31946)|[전화번호 수수께끼 (Small)](https://www.acmicpc.net/problem/14369)|[내진 설계](https://www.acmicpc.net/problem/31863)| |
 |129주차(10.28~11.03)|[무한 수열](https://www.acmicpc.net/problem/1351)|[영어 읽기](https://www.acmicpc.net/problem/1501)|[빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!](https://www.acmicpc.net/problem/28140)|[신촌 통폐합 계획](https://www.acmicpc.net/problem/31423)| |
+|130주차(11.04~11.10)|[저울 추 만들기](https://www.acmicpc.net/problem/2205)|[숌 사이 수열](https://www.acmicpc.net/problem/1469)|[자두나무](https://www.acmicpc.net/problem/2240)|[종점](https://www.acmicpc.net/problem/22867)| |
 
 
 
