@@ -153,6 +153,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |129주차(10.28~11.03)|[무한 수열](https://www.acmicpc.net/problem/1351)|[영어 읽기](https://www.acmicpc.net/problem/1501)|[빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!](https://www.acmicpc.net/problem/28140)|[신촌 통폐합 계획](https://www.acmicpc.net/problem/31423)| |
 |130주차(11.04~11.10)|[저울 추 만들기](https://www.acmicpc.net/problem/2205)|[숌 사이 수열](https://www.acmicpc.net/problem/1469)|[자두나무](https://www.acmicpc.net/problem/2240)|[종점](https://www.acmicpc.net/problem/22867)| |
 |131주차(11.11~11.17)|[그림](https://www.acmicpc.net/problem/1926)|[행렬 곱셈 순서 4](https://www.acmicpc.net/problem/25683)|[숫자고르기](https://www.acmicpc.net/problem/2668)|[그래프 탐색](https://www.acmicpc.net/problem/14217)| |
+|132주차(11.18~11.24)|[세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다](https://www.acmicpc.net/problem/29754)|[개업](https://www.acmicpc.net/problem/13910)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[블랙 프라이데이](https://www.acmicpc.net/problem/18114)| |
 
 
 
