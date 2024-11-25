@@ -154,6 +154,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |130주차(11.04~11.10)|[저울 추 만들기](https://www.acmicpc.net/problem/2205)|[숌 사이 수열](https://www.acmicpc.net/problem/1469)|[자두나무](https://www.acmicpc.net/problem/2240)|[종점](https://www.acmicpc.net/problem/22867)| |
 |131주차(11.11~11.17)|[그림](https://www.acmicpc.net/problem/1926)|[행렬 곱셈 순서 4](https://www.acmicpc.net/problem/25683)|[숫자고르기](https://www.acmicpc.net/problem/2668)|[그래프 탐색](https://www.acmicpc.net/problem/14217)| |
 |132주차(11.18~11.24)|[세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다](https://www.acmicpc.net/problem/29754)|[개업](https://www.acmicpc.net/problem/13910)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[블랙 프라이데이](https://www.acmicpc.net/problem/18114)| |
+|133주차(11.25~12.01)|[강아지는 많을수록 좋다](https://www.acmicpc.net/problem/27971)|[문자열 잘라내기](https://www.acmicpc.net/problem/2866)|[망가진 키보드](https://www.acmicpc.net/problem/6503)|[경로 게임](https://www.acmicpc.net/problem/12887)| |
 
 
 
