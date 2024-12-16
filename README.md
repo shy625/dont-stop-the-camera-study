@@ -156,6 +156,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |132주차(11.18~11.24)|[세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다](https://www.acmicpc.net/problem/29754)|[개업](https://www.acmicpc.net/problem/13910)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[블랙 프라이데이](https://www.acmicpc.net/problem/18114)| |
 |133주차(11.25~12.01)|[강아지는 많을수록 좋다](https://www.acmicpc.net/problem/27971)|[문자열 잘라내기](https://www.acmicpc.net/problem/2866)|[망가진 키보드](https://www.acmicpc.net/problem/6503)|[경로 게임](https://www.acmicpc.net/problem/12887)| |
 |134주차(12.02~12.08)|[보석 상자](https://www.acmicpc.net/problem/2792)|[3으로 나누어 떨어지지 않는 배열](https://www.acmicpc.net/problem/2938)|[영정이의 청소](https://www.acmicpc.net/problem/14671)|[유니의 편지 쓰기](https://www.acmicpc.net/problem/28070)| |
+|135주차(12.09~12.15)|[영식이의 손가락](https://www.acmicpc.net/problem/1614)|[곱셈](https://www.acmicpc.net/problem/1629)|[자두나무](https://www.acmicpc.net/problem/2240)|[근성아 일하자](https://www.acmicpc.net/problem/32358)| |
 
 
 
