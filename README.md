@@ -160,6 +160,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |136주차(12.23~01.05)|[전구 길만 걷자](https://www.acmicpc.net/problem/17359)|[나무꾼 이다솜](https://www.acmicpc.net/problem/1421)|[직각삼각형](https://www.acmicpc.net/problem/1711)|[산업 스파이의 편지](https://www.acmicpc.net/problem/3671)| |
 |137주차(01.06~01.12)|[수열의 합](https://www.acmicpc.net/problem/1024)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[내려가기](https://www.acmicpc.net/problem/2096)|[이가 빠진 이진 트리](https://www.acmicpc.net/problem/26260)| |
 |138주차(01.13~01.19)|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)|[태권왕](https://www.acmicpc.net/problem/14562)|[종이 접기](https://www.acmicpc.net/problem/12979)|[최고의 팀 만들기](https://www.acmicpc.net/problem/1633)| |
+|139주차(01.20~02.02)|[숫자놀이](https://www.acmicpc.net/problem/1679)|[삼각형 게임](https://www.acmicpc.net/problem/4658)|[카드 바꾸기](https://www.acmicpc.net/problem/25401)|[케이크 자르기](https://www.acmicpc.net/problem/17179)| |
 
 
 
