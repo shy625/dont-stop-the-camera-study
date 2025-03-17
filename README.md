@@ -164,6 +164,7 @@ SSAFY 서울 15반 C조 알고리즘 스터디 저장소입니다.
 |140주차(02.03~02.09)|[타일 위의 대각선](https://www.acmicpc.net/problem/2168)|[주지수](https://www.acmicpc.net/problem/15724)|[그리드 게임](https://www.acmicpc.net/problem/14271)|[우체국](https://www.acmicpc.net/problem/2141)| |
 |141주차(02.10~03.09)|[득수 밥 먹이기](https://www.acmicpc.net/problem/24464)|[가지고 노는 1](https://www.acmicpc.net/problem/1612)|[균형](https://www.acmicpc.net/problem/22968)|[플로이드](https://www.acmicpc.net/problem/11404)| |
 |142주차(03.10~03.16)|[단축키 지정](https://www.acmicpc.net/problem/1283)|[AC](https://www.acmicpc.net/problem/5430)|[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|[W키가 빠진 성원이](https://www.acmicpc.net/problem/28471)| |
+|143주차(03.17~03.23)|[재채점을 기다리는 중](https://www.acmicpc.net/problem/28286)|[A와 B](https://www.acmicpc.net/problem/12904)|[모든 스택 수열](https://www.acmicpc.net/problem/23284)|[좋은수열](https://www.acmicpc.net/problem/2661)| |
 
 
 
